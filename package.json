@@ -1,0 +1,14 @@
+{
+	"name": "cabbie",
+	"description": "Cabbie is Easy Taxi's driver side signup application",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express"	: "3.x",
+		"redis"		: "x",
+		"hiredis"	: "x",
+		"posix"		: "x",
+		"mongodb"	: "x",
+		"mysql"		: "x"
+	}
+}
